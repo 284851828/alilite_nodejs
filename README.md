@@ -48,10 +48,12 @@ const payload = {
     await sdk.post('gate/liteContract/create', payload);
 }
 }
+
+申请 APPID
+![申请 APPID](https://raw.githubusercontent.com/284851828/alilite_nodejs/main/github_8888.png)
+
 联系客服
-![联系客服](https://raw.githubusercontent.com/284851828/alilite_nodejs/main/github_8888.png)
-联系客服
-![联系客服](https://raw.githubusercontent.com/284851828/alilite_nodejs/main/github_8888.png)
+![联系客服](https://raw.githubusercontent.com/284851828/alilite_nodejs/main/wx.jpg)
 
 
 
