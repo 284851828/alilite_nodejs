@@ -49,7 +49,7 @@ const payload = {
 }
 }
 
-`![联系客服](./github_8888.png)`
+`![联系客服](github_8888.png)`
 
 
 	
