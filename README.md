@@ -1,3 +1,8 @@
+## 目标
+
+
+### 原理
+
 "# alilite_nodejs" 
 
 
@@ -6,7 +11,7 @@ const GatewaySdk = require('./gateway-sdk');
 const appId = 'your_app_id'; // 向客服申请 App ID
 
 const sdk = new GatewaySdk(appId);  
-
+```c
 const payload = {
   timestamp: 1711347382,
   content: {
@@ -37,11 +42,12 @@ const payload = {
     },
   },
 };
-
+```
 (async () => {
   try {
     await sdk.post('gate/liteContract/create', payload);
-    console.
+}
+}
 	
 	
 	
